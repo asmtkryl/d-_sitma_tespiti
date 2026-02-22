@@ -4,7 +4,6 @@ evrişimli sinir ağı mimarisi sadece başarılı bir sınıflandırma yapmakla
 sınıf aktivasyon haritalama tekniğiyle modelin hangi piksellere odaklanarak karar verdiğini görselleştirmekte ve
 açıklanabilir yapay zeka standartlarını karşılamaktadır. Geliştirilen modüler yapı sayesinde en son evrişim 
 katmanındaki gradyan verileri analiz edilerek hücre içindeki şüpheli parazit yapıları ısı haritalarıyla açıkça
-gösterilmekte, bu da modelin karar mekanizmasının denetlenmesine olanak tanımaktadır. Apple m2 işlemci üzerinde
-metal desteğiyle optimize edilen ve tensorflow kütüphanesiyle hazırlanan bu sistem, akademik derin öğrenme
-birikimini pratik bir teşhis ve analiz aracıyla birleştirerek tıbbi görüntüleme projeleri için şeffaf, güvenilir
-ve modüler bir yazılım çözümü sunmaktadır.
+gösterilmekte, bu da modelin karar mekanizmasının denetlenmesine olanak tanımaktadır.Tensorflow kütüphanesiyle 
+hazırlanan bu sistem, akademik derin öğrenme birikimini pratik bir teşhis ve analiz aracıyla birleştirerek tıbbi
+görüntüleme projeleri için şeffaf, güvenilir ve modüler bir yazılım çözümü sunmaktadır.
